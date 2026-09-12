@@ -1,1 +1,4 @@
-printf "node_modules/\n*.log\n.env\n.vscode/\n" > .gitignore
+node_modules/
+*.log
+.env
+.vscode/
