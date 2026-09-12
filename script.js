@@ -1,1 +1,1 @@
-echo "console.log('Web Application');" > script.js
+console.log("Web Application");
